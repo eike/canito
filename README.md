@@ -2,7 +2,7 @@
 
 A cli music streaming tool.
 
-Canito is very brittle, will likely not work as expected yet, and subject to change.
+Canito is very brittle, will likely not work as expected yet, and is subject to change.
 
 ## Usage
 
